@@ -1,0 +1,7 @@
+yp1  y+ less than 1
+
+yp2  1 < y+ < 6
+
+yp3  y+ > 30
+
+yp4 y+ > 30 no inflation layer
